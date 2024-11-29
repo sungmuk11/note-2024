@@ -53,6 +53,14 @@ body {
     font-size: 21px;
 }
 
+.day-title {
+    position: absolute;
+    top: 25px;
+    right: 43px;
+    font-weight: 550;
+    font-size: 21px;
+}
+
 .screen-bar a {
     text-decoration: none;
     color: inherit;
