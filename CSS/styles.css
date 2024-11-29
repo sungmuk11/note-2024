@@ -1,0 +1,54 @@
+.status-bar {
+    background-color: #BFBFBF;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.status-bar__column i {
+    margin-top: 7px;
+}
+
+.status-bar__column h1 {
+    margin-top: 0;
+    margin-right: 2330px;
+}
+
+body {
+    background-color: bisque;
+}
+
+.screen-bar {
+    position: relative;
+}
+
+.note-title__column {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.note-title__column i {
+    color: white;
+    background-color: #2A282B;
+    margin-left: 30px;
+    padding: 30px 38px;
+    border-radius: 50%;
+}
+
+.fir-title {
+    position: relative;
+    top: -35px;
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sub-title {
+    position: absolute;
+    top: 68px;
+    left: 166px;
+    font-weight: 550;
+    font-size: 21px;
+}
