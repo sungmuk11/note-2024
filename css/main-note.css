@@ -1,0 +1,26 @@
+.status-bar__column:first-child a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.status-bar__column:last-child i {
+    margin: 10px;
+}
+
+.main-note__screen {
+    font-size: 50px;
+    font-weight: 600;
+    margin: 30px;
+}
+
+.main-note__title {
+    padding-bottom: 40px;
+    border-bottom: var(--main-border);
+}
+
+.main-note__sub-title {
+    padding-left: 10px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: 100;
+}
